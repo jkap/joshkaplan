@@ -1,0 +1,25 @@
+body {
+  font-family: Futura, sans-serif;
+  font-size: 16px; }
+
+p {
+  font-family: Georgia, serif; }
+
+.jumbotron {
+  text-align: center;
+  margin-bottom: 2em; }
+  .jumbotron h1 {
+    font-size: 5em;
+    line-height: 1.25; }
+  .jumbotron h2 {
+    font-size: 4em;
+    line-height: 1.25;
+    font-weight: normal;
+    font-style: italic; }
+
+.leftColumn {
+  text-align: right; }
+
+.leftColumn, .rightColumn {
+  font-size: 2em;
+  line-height: 1.25; }
